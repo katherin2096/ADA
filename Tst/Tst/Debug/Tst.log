@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\daniela\documents\visual studio 2017\projects\tst\tst\source.cpp(48): warning C4018: '<': no coinciden signed/unsigned
+c:\users\daniela\documents\visual studio 2017\projects\tst\tst\source.cpp(113): warning C4018: '>': no coinciden signed/unsigned
+  Tst.vcxproj -> C:\Users\Daniela\Documents\Visual Studio 2017\Projects\Tst\Debug\Tst.exe
+  Tst.vcxproj -> C:\Users\Daniela\Documents\Visual Studio 2017\Projects\Tst\Debug\Tst.pdb (Partial PDB)

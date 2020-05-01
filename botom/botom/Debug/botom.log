@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\daniela\documents\visual studio 2017\projects\botom\botom\main.cpp(52): warning C4018: '<': no coinciden signed/unsigned
+c:\users\daniela\documents\visual studio 2017\projects\botom\botom\main.cpp(63): warning C4018: '<': no coinciden signed/unsigned
+c:\users\daniela\documents\visual studio 2017\projects\botom\botom\main.cpp(77): warning C4018: '<=': no coinciden signed/unsigned
+c:\users\daniela\documents\visual studio 2017\projects\botom\botom\main.cpp(59): warning C4715: 'findNT': no todas las rutas de acceso de control devuelven un valor
+c:\users\daniela\documents\visual studio 2017\projects\botom\botom\main.cpp(225): warning C4715: 'evaluar1': no todas las rutas de acceso de control devuelven un valor
+  botom.vcxproj -> c:\users\daniela\documents\visual studio 2017\Projects\botom\Debug\botom.exe
+  botom.vcxproj -> c:\users\daniela\documents\visual studio 2017\Projects\botom\Debug\botom.pdb (Partial PDB)

@@ -1,0 +1,13 @@
+﻿  main.cpp
+c:\users\daniela\documents\visual studio 2017\projects\metales\metales\main.cpp(25): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\daniela\documents\visual studio 2017\projects\metales\metales\main.cpp(26): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\daniela\documents\visual studio 2017\projects\metales\metales\main.cpp(35): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\daniela\documents\visual studio 2017\projects\metales\metales\main.cpp(38): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\daniela\documents\visual studio 2017\projects\metales\metales\main.cpp(46): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\daniela\documents\visual studio 2017\projects\metales\metales\main.cpp(51): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\daniela\documents\visual studio 2017\projects\metales\metales\main.cpp(117): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.10.25017\include\utility(217): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+  c:\users\daniela\documents\visual studio 2017\projects\metales\metales\main.cpp(30): note: vea la referencia a la creación de instancias de plantilla de función 'std::pair<int,int>::pair<float,int,void,0>(std::pair<float,int> &&) noexcept' que se está compilando
+  c:\users\daniela\documents\visual studio 2017\projects\metales\metales\main.cpp(30): note: vea la referencia a la creación de instancias de plantilla de función 'std::pair<int,int>::pair<float,int,void,0>(std::pair<float,int> &&) noexcept' que se está compilando
+  metales.vcxproj -> C:\Users\Daniela\Documents\Visual Studio 2017\Projects\metales\x64\Debug\metales.exe
+  metales.vcxproj -> C:\Users\Daniela\Documents\Visual Studio 2017\Projects\metales\x64\Debug\metales.pdb (Partial PDB)

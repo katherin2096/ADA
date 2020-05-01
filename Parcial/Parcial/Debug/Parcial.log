@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\daniela\documents\visual studio 2017\projects\parcial\parcial\main.cpp(23): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\daniela\documents\visual studio 2017\projects\parcial\parcial\main.cpp(44): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\daniela\documents\visual studio 2017\projects\parcial\parcial\main.cpp(58): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+  Parcial.vcxproj -> C:\Users\Daniela\Documents\Visual Studio 2017\Projects\Parcial\Debug\Parcial.exe
+  Parcial.vcxproj -> C:\Users\Daniela\Documents\Visual Studio 2017\Projects\Parcial\Debug\Parcial.pdb (Partial PDB)

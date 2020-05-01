@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\daniela\documents\visual studio 2017\projects\puntos\puntos\main.cpp(23): warning C4018: '<': no coinciden signed/unsigned
+c:\users\daniela\documents\visual studio 2017\projects\puntos\puntos\main.cpp(35): warning C4018: '<': no coinciden signed/unsigned
+  puntos.vcxproj -> C:\Users\Daniela\Documents\Visual Studio 2017\Projects\puntos\Debug\puntos.exe
+  puntos.vcxproj -> C:\Users\Daniela\Documents\Visual Studio 2017\Projects\puntos\Debug\puntos.pdb (Partial PDB)

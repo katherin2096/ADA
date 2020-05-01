@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\daniela\documents\visual studio 2017\projects\figuritas\figuritas\main.cpp(32): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+  Figuritas.vcxproj -> C:\Users\Daniela\Documents\Visual Studio 2017\Projects\Figuritas\Debug\Figuritas.exe
+  Figuritas.vcxproj -> C:\Users\Daniela\Documents\Visual Studio 2017\Projects\Figuritas\Debug\Figuritas.pdb (Partial PDB)

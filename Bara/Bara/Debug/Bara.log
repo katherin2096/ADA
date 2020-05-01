@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\daniela\documents\visual studio 2017\projects\bara\bara\main.cpp(41): warning C4018: '<': no coinciden signed/unsigned
+c:\users\daniela\documents\visual studio 2017\projects\bara\bara\main.cpp(71): warning C4018: '<': no coinciden signed/unsigned
+  Bara.vcxproj -> C:\Users\Daniela\Documents\Visual Studio 2017\Projects\Bara\Debug\Bara.exe
+  Bara.vcxproj -> C:\Users\Daniela\Documents\Visual Studio 2017\Projects\Bara\Debug\Bara.pdb (Partial PDB)

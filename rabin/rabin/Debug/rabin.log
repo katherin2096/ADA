@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\daniela\documents\visual studio 2017\projects\rabin\rabin\source.cpp(15): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+  rabin.vcxproj -> c:\users\daniela\documents\visual studio 2017\Projects\rabin\Debug\rabin.exe
+  rabin.vcxproj -> c:\users\daniela\documents\visual studio 2017\Projects\rabin\Debug\rabin.pdb (Partial PDB)

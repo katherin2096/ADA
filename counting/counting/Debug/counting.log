@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\daniela\documents\visual studio 2017\projects\counting\counting\source.cpp(14): warning C4018: '<': no coinciden signed/unsigned
+c:\users\daniela\documents\visual studio 2017\projects\counting\counting\source.cpp(21): warning C4018: '<': no coinciden signed/unsigned
+c:\users\daniela\documents\visual studio 2017\projects\counting\counting\source.cpp(32): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\daniela\documents\visual studio 2017\projects\counting\counting\source.cpp(26): warning C4715: 'counting_sort': no todas las rutas de acceso de control devuelven un valor
+  counting.vcxproj -> c:\users\daniela\documents\visual studio 2017\Projects\counting\Debug\counting.exe
+  counting.vcxproj -> c:\users\daniela\documents\visual studio 2017\Projects\counting\Debug\counting.pdb (Partial PDB)

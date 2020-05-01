@@ -1,0 +1,6 @@
+﻿  maincpp.cpp
+c:\users\daniela\documents\visual studio 2017\projects\gready\gready\maincpp.cpp(21): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\daniela\documents\visual studio 2017\projects\gready\gready\maincpp.cpp(41): warning C4244: 'return': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\daniela\documents\visual studio 2017\projects\gready\gready\maincpp.cpp(76): warning C4018: '<': no coinciden signed/unsigned
+  Gready.vcxproj -> c:\users\daniela\documents\visual studio 2017\Projects\Gready\Debug\Gready.exe
+  Gready.vcxproj -> c:\users\daniela\documents\visual studio 2017\Projects\Gready\Debug\Gready.pdb (Partial PDB)

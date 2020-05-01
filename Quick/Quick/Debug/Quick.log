@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\daniela\documents\visual studio 2017\projects\quick\quick\main.cpp(40): error C2131: la expresión no se evaluó como una constante
+  c:\users\daniela\documents\visual studio 2017\projects\quick\quick\main.cpp(40): note: el error se debió a una lectura de una variable fuera de su duración
+  c:\users\daniela\documents\visual studio 2017\projects\quick\quick\main.cpp(40): note: consulte el uso de 'high'
+c:\users\daniela\documents\visual studio 2017\projects\quick\quick\main.cpp(48): error C3863: el tipo de matriz 'int [high+]' no es asignable
+c:\users\daniela\documents\visual studio 2017\projects\quick\quick\main.cpp(50): error C3863: el tipo de matriz 'int [high+]' no es asignable
+c:\users\daniela\documents\visual studio 2017\projects\quick\quick\main.cpp(53): error C3863: el tipo de matriz 'int [high+]' no es asignable
+c:\users\daniela\documents\visual studio 2017\projects\quick\quick\main.cpp(55): error C3863: el tipo de matriz 'int [high+]' no es asignable

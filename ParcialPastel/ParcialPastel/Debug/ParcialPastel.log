@@ -1,0 +1,10 @@
+﻿  main.cpp
+c:\users\daniela\documents\visual studio 2017\projects\parcialpastel\parcialpastel\main.cpp(10): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\daniela\documents\visual studio 2017\projects\parcialpastel\parcialpastel\main.cpp(44): warning C4838: la conversión de 'double' en 'int' requiere una conversión de restricción
+c:\users\daniela\documents\visual studio 2017\projects\parcialpastel\parcialpastel\main.cpp(44): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\daniela\documents\visual studio 2017\projects\parcialpastel\parcialpastel\main.cpp(45): warning C4838: la conversión de 'double' en 'int' requiere una conversión de restricción
+c:\users\daniela\documents\visual studio 2017\projects\parcialpastel\parcialpastel\main.cpp(45): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\daniela\documents\visual studio 2017\projects\parcialpastel\parcialpastel\main.cpp(46): warning C4838: la conversión de 'double' en 'int' requiere una conversión de restricción
+c:\users\daniela\documents\visual studio 2017\projects\parcialpastel\parcialpastel\main.cpp(46): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+  ParcialPastel.vcxproj -> C:\Users\Daniela\Documents\Visual Studio 2017\Projects\ParcialPastel\Debug\ParcialPastel.exe
+  ParcialPastel.vcxproj -> C:\Users\Daniela\Documents\Visual Studio 2017\Projects\ParcialPastel\Debug\ParcialPastel.pdb (Partial PDB)
